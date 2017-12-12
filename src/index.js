@@ -4,7 +4,7 @@ import './index.css'
 
 class App extends React.Component {
   render() {
-    return <div>Heldlo {this.props.name}</div>
+    return <div>Hello {this.props.name}</div>
   }
 }
 
